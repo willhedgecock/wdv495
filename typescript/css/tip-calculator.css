@@ -1,0 +1,55 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  background: linear-gradient(180deg, rgba(255,255,255,1) 28%, rgba(189,189,189,1) 100%);
+  background-repeat: no-repeat;
+}
+
+#container {
+  width: 25%;
+  margin: auto;
+  font-size: 1.25rem;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+
+#container h2 {
+  text-align: center;
+  border-bottom: 2px dotted black;
+  padding: 20px 0;
+  margin: 0;
+}
+
+#container form {
+  padding: 10px;
+  background-color: lightblue;
+  border-radius: 0 0 10px 10px;
+}
+
+#container form h3 {
+  margin-top: 5px;
+}
+
+.container-top {
+  background-color: yellow;
+  border-radius: 10px;
+}
+
+#calculate {
+  color: black;
+  background-color: yellow;
+  border: 1px solid black;
+  height: 30px;
+  width: 120px;
+  border-radius: 10px;
+  -webkit-box-shadow: 3px 4px 5px 0px rgba(0, 0, 0, 0.75);
+          box-shadow: 3px 4px 5px 0px rgba(0, 0, 0, 0.75);
+}
+/*# sourceMappingURL=tip-calculator.css.map */
