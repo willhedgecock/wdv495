@@ -1,0 +1,89 @@
+{
+    "data": [
+        {
+            "projectName": "Koala Site",
+            "class": "WDV101",
+            "skills": "HTML, CSS",
+            "img": "images/koala.jpg",
+            "url": "https://willyhedge.com/WDV101/KOALA/"
+        },
+        {
+            "projectName": "Summit Farms",
+            "class": "WDV101",
+            "skills": "HTML, CSS",
+            "img": "images/summit.jpg",
+            "url": "https://willyhedge.com/WDV101/summit_site/"
+        },
+        {
+            "projectName": "Cocoa Site",
+            "class": "WDV101",
+            "skills": "HTML, CSS",
+            "img": "images/cocoa.jpg",
+            "url": "https://willyhedge.com/WDV101/cocoa_site/"
+        },
+        {
+            "projectName": "Pets To Go",
+            "class": "WDV101",
+            "skills": "HTML, CSS, Bootstrap",
+            "img": "images/pets2go.jpg",
+            "url": "https://willyhedge.com/WDV101/final-project/"
+        },
+        {
+            "projectName": "CSS Advertisement",
+            "class": "WDV205",
+            "skills": "HTML, CSS, Animations, Media Queries",
+            "img": "images/css-advertisement.jpg",
+            "url": "https://willyhedge.com/WDV205/assignments/animationAd-final/"
+        },
+        {
+            "projectName": "CSS Grid Layout Assignment",
+            "class": "WDV205",
+            "skills": "HTML, CSS, CSS Grid",
+            "img": "images/css-grid.jpg",
+            "url": "https://https://willyhedge.com/WDV205/assignments/basicPageWithGrid/basicPage.html"
+        },
+        {
+            "projectName": "Bootstrap Application - Skyline Fitness",
+            "class": "WDV205",
+            "skills": "HTML, CSS, Animations, Bootstrap, Media Queries",
+            "img": "images/skyline-project.jpg",
+            "url": "https://willyhedge.com/WDV205/assignments/bootstrap-final/"
+        },
+        {
+            "projectName": "J-Query High Low Game",
+            "class": "WDV321",
+            "skills": "HTML, CSS, JQuery",
+            "img": "images/jquery.jpg",
+            "url": "https://willyhedge.com/WDV321/assignments/hiLoGameJQuery.html"
+        },
+        {
+            "projectName": "Javascript Recipe Manager",
+            "class": "WDV321",
+            "skills": "HTML, CSS, Javascript, Media Queries",
+            "img": "images/recipe.jpg",
+            "url": "https://willyhedge.com/WDV321/assignments/recipeManager/"
+        },
+        {
+            "projectName": "PHP, SQL Content Management Music Site",
+            "class": "WDV341",
+            "skills": "HTML, CSS, Javascript, PHP, SQL, Paypal, Media Queries",
+            "img": "images/music.jpg",
+            "url": "https://willyhedge.com/WDV341/portfolioProject/"
+        },
+        {
+            "projectName": "Format Retail Products",
+            "class": "WDV341",
+            "skills": "HTML, CSS, PHP, SQL",
+            "img": "images/retail.jpg",
+            "url": "https://willyhedge.com/WDV341/assignments/formattedProducts/retailProducts.php"
+        },
+        {
+            "projectName": "Demonstrate SQL Select",
+            "class": "WDV341",
+            "skills": "HTML, CSS, PHP, SQL",
+            "img": "images/select.jpg",
+            "url": "https://willyhedge.com/WDV341/assignments/selectEvents/selectEvents.php"
+        }
+    ]
+}
+
